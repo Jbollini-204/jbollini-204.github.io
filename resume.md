@@ -1,8 +1,3 @@
----
-title: "Resume"
-layout: default
----
-
 # Josefina Bollini
 
 **Data Science Professional**  
