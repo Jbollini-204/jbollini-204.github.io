@@ -1,3 +1,8 @@
+---
+title: "Home"
+layout: default
+---
+
 # Welcome to My Data Science Portfolio
 
 I am a data science professional with a background in analytics, machine learning, and operations research. I have experience leading teams and delivering data-driven strategies to optimize business outcomes.
