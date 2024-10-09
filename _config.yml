@@ -1,3 +1,9 @@
+# Basic Site Info
 theme: jekyll-theme-minimal
-title: Josefina Bollini's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Josefina Bollini - Data Science Portfolio"
+description: "Experienced Data Scientist with a background in predictive modeling, operations analytics, and business strategy. Skilled in data mining, machine learning, and translating complex results into actionable business insights."
+
+# Contact Information
+email: "Josefinabollini@gmail.com"
+linkedin: "https://www.linkedin.com/in/josefina-bollini"
+phone: "(312) 874-9992"
