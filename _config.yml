@@ -1,5 +1,7 @@
 # Basic Site Info
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-optional-front-matter
 title: "Josefina Bollini - Data Science Portfolio"
 description: "Experienced Data Scientist with a background in predictive modeling, operations analytics, and business strategy."
 
