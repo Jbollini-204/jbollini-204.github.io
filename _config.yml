@@ -8,3 +8,10 @@ description: "Experienced Data Scientist with a background in predictive modelin
 # Contact Information
 email: "Josefinabollini@gmail.com"
 linkedin: "https://www.linkedin.com/in/josefina-bollini"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "main"
