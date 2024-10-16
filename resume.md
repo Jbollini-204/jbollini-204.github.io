@@ -1,3 +1,8 @@
+---
+title: "Resume"
+layout: single
+---
+
 # Josefina Bollini
 
 **Data Science Professional**  
